@@ -1,0 +1,12 @@
+Running ./bin/traccc_seq_example_cuda_HTTSim tml_detector/trackml-detector.csv home/yusuf/atlas-project/traccc-projects/traccc/data/HTTSim_test/singlemu_invPtFlat1_10k_wrap.root 1
+IDreader will read traccc detector csv file: /home/yusuf/atlas-project/traccc-projects/traccc/data/tml_detector/trackml-detector.csv
+IDreader: 18791 IDs are read.
+IDreader: 18785 IDs are considered to be active.
+==> Statistics ... 
+- read    0 spacepoints from 0 modules
+- created        0 cells
+- created        0 measurements     
+- created        0 spacepoints     
+- created (cuda) 0 spacepoints     
+==>Elapsed times...
+
